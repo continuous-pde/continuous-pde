@@ -1,0 +1,11 @@
+/Data/
+/.idea/
+/wandb/
+/Launchers/wandb
+/Models/__pycache__
+/utils/__pycache__
+/Dataloader/__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+/trained_models/dino/dino_cylinder*
